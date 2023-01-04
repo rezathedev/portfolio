@@ -92,6 +92,7 @@ main{
     font-weight: 700;
     font-size: 35px;
     margin-bottom: 30px;
+    text-align: center;
 }
 
 .section-description{
@@ -120,3 +121,40 @@ tr {
     color: #474747;
 
 }
+
+/* What i do section */
+.what-i-do {
+    margin-top: 130px;
+    
+}
+
+.skills-container {
+    display: flex;
+    gap: 24px;
+}
+
+.skill {
+    background: #FFFFFF;
+    box-shadow: 0px 6px 50px rgba(0, 0, 0, 0.06);
+    border-radius: 5px;
+    padding: 30px;
+}
+
+.what-i-do-description {
+    padding: 0 345px;
+}
+
+.skill-title {
+    font-weight: 700;
+    font-size: 20px;
+    color: #181818;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+
+.skill-description {
+    font-weight: 400;
+    font-size: 16px;
+    color: #757575;
+}
+
