@@ -33,7 +33,7 @@ section {
 nav { 
     display: flex;
     justify-content: space-between;
-    margin: 50px 200px;
+    padding: 50px 200px;
 }
 
 .nav-title {
@@ -214,5 +214,5 @@ input {
 
 .contact a{
     text-decoration: none;
-    gap: 500px;
+    
 }
