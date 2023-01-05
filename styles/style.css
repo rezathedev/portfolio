@@ -3,6 +3,10 @@
     font-family: 'Open Sans', sans-serif;
 }
 
+section {
+    margin-top: 130px;
+}
+
 .text-primary {
     color: #FD6E0A;
 }
@@ -26,7 +30,7 @@
 }
 
 /* Header and Navigation styles */
-nav {
+nav { 
     display: flex;
     justify-content: space-between;
     margin: 50px 200px;
@@ -81,7 +85,6 @@ main{
 
 /* About section */
 .about{
-    margin-top: 130px;
     background: #FFF8F3;
     border-radius: 10px;
     padding: 130px 150px;
@@ -91,7 +94,7 @@ main{
 .section-title{
     font-weight: 700;
     font-size: 35px;
-    margin-bottom: 30px;
+    margin-bottom: 50px;
     text-align: center;
 }
 
@@ -123,10 +126,6 @@ tr {
 }
 
 /* What i do section */
-.what-i-do {
-    margin-top: 130px;
-    
-}
 
 .skills-container {
     display: flex;
@@ -154,3 +153,4 @@ tr {
     color: #757575;
 }
 
+/* Resume Styles */
