@@ -154,3 +154,7 @@ tr {
 }
 
 /* Resume Styles */
+
+.resume-content{
+    display: flex;
+}
