@@ -21,6 +21,17 @@ section {
     border: 0;
     padding: 18px 35px;
 }
+.call-button {
+    height: 64px;
+    border-radius: 5px;
+    color: #FD6E0A;
+    font-weight: 700;
+    font-size: 20px;
+    border: 1px solid #FD6E0A;
+    padding: 18px 35px;
+    background: #FFF8F3;
+    margin-left: 20px;
+}
 
 .header{
     background: #FFF8F3;
